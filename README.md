@@ -8,3 +8,5 @@
 ## usage
 
 `node src/parse.js ${*.md filepath} ${template filepath} ${generated filepath}`
+
+テスト

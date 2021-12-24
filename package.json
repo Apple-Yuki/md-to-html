@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node src/parse.js README.md SAMPLE.html TEST.html"
+    "main": "node src/parse.js README.md SAMPLE.html TEST.html"
   },
   "author": "wifeofvillon",
   "license": "MIT",
